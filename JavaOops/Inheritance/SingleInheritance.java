@@ -1,4 +1,4 @@
-package Inheritance;
+package JavaRevision.JavaOops.Inheritance;
 
 //when child inherits the parent class object of it can access all the properties of parent class except private one but,
 //object of parent class will not be able to access the properties of child class
@@ -31,10 +31,10 @@ public class SingleInheritance {
 
 }
 
-class Child extends SingleInheritance{
+class Child1 extends SingleInheritance{
     int weight;
 //if we do not call super it will call default constructor of parent
-    Child(){
+    Child1(){
         super();        //calls constructor of parent class with no arguments
         this.weight = 0;
 
@@ -42,11 +42,11 @@ class Child extends SingleInheritance{
 //        object , which you can access or modify
 //        this.len = 10;
     }
-    Child(int weight){
+    Child1(int weight){
       super(weight);        //calls constructor of parent class with one argument
       this.weight = weight;
     }
-    Child(int len, int wid, int hei, int weight){
+    Child1(int len, int wid, int hei, int weight){
         super(len, wid, hei);       //calls constructor of parent class with all arguments if no of arguments are not
                                     //equal it throws an error
 

@@ -1,4 +1,4 @@
-package Encapsulation;
+package JavaRevision.JavaOops.Encapsulation;
 
 public class GettersAndSetters {
     private int num1;

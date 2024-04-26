@@ -1,4 +1,4 @@
-package Polymorphism;
+package JavaRevision.JavaOops.Polymorphism;
 
 //method overloading is static polymorphism / compile time polymorphism
 

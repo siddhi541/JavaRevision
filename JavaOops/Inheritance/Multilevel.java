@@ -1,4 +1,4 @@
-package Inheritance;
+package JavaRevision.JavaOops.Inheritance;
 
 //One class extends another class that class also extends another class
 

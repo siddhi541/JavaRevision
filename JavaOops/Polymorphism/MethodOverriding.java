@@ -1,4 +1,4 @@
-package Polymorphism;
+package JavaRevision.JavaOops.Polymorphism;
 //static method cannot override
 //As they are not dependent on object
 
