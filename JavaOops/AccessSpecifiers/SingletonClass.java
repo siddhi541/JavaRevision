@@ -1,4 +1,4 @@
-package AccessSpecifiers;//use case of singleton class is we can only make one object of that class
+package JavaRevision.JavaOops.AccessSpecifiers;//use case of singleton class is we can only make one object of that class
 //by making a constructor private we restrict making object outside of this file and hence we cannot make another
 //instance but can only call same instance as many times as we want
 

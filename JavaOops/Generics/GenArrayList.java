@@ -1,4 +1,4 @@
-package Generics;
+package JavaRevision.JavaOops.Generics;
 
 import java.util.Arrays;
 

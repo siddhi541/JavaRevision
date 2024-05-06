@@ -1,4 +1,4 @@
-package Abstraction;
+package JavaRevision.JavaOops.Abstraction;
 
 public class Interfaces {
 //    abstract class can provide implementation of interfaces but interfaces cannot provide implementation of abstract

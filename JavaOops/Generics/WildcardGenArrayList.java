@@ -1,4 +1,4 @@
-package Generics;
+package JavaRevision.JavaOops.Generics;
 
 //if you want arraylist to be one type only like any type of numbers are allowed
 //then you can use wildcard in generics

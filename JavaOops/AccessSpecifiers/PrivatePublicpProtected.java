@@ -1,4 +1,4 @@
-package AccessSpecifiers;
+package JavaRevision.JavaOops.AccessSpecifiers;
 
 
 public class PrivatePublicpProtected {

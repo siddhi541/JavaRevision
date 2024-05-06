@@ -1,4 +1,4 @@
-package AccessSpecifiers;//main method in static because it is an entry point function which will be called by jvm and jvm should call main
+package JavaRevision.JavaOops.AccessSpecifiers;//main method in static because it is an entry point function which will be called by jvm and jvm should call main
 //without making an object of it.
 //any non-static context is not callable inside a static context directly, you need to make an object of it
 //just like below, we cannot call greeting method directly as it is not static

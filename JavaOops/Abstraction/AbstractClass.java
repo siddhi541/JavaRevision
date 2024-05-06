@@ -1,4 +1,4 @@
-package Abstraction;
+package JavaRevision.JavaOops.Abstraction;
 
 //if only one method inside the class is abstract you have to make the class abstract.
 //abstract class can have abstract methods as well as normal methods
