@@ -1,4 +1,4 @@
-package ObjCompAndLambdaFunc;
+package JavaRevision.JavaOops.ObjCompAndLambdaFunc;
 
 import java.util.ArrayList;
 import java.util.function.Consumer;

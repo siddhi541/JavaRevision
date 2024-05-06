@@ -1,4 +1,4 @@
-package ObjCompAndLambdaFunc;
+package JavaRevision.JavaOops.ObjCompAndLambdaFunc;
 
 //to compare two objects we have to use comparable interface
 class objCom implements Comparable<objCom>{
